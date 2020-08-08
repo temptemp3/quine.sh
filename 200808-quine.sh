@@ -1,4 +1,4 @@
 _ ()
 {
-    echo "$(declare -f _);_"
+    echo "$(local -f _);_"
 };_
