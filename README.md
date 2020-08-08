@@ -4,6 +4,7 @@ Rules
 
 1. Takes no input
 1. Produces self (source code)
+1. May not use `${0}` ("cheating" by source code inspection)
 
 Running list of bash quines
 
