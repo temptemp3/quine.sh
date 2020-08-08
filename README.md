@@ -1,5 +1,10 @@
 # quine.sh
 
+Rules
+
+1. Takes no input
+1. Produces self (source code)
+
 Running list of bash quines
 
 |  #  |      Name       |        Description         | Comments |
